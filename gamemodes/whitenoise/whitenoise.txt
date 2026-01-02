@@ -1,0 +1,7 @@
+"whitenoise"
+{
+	"base"			"base"
+	"title"			"White Noise"
+	"maps"			"^hmcd_|^md_|^mu_|^murder_|^wn|^wn_|^whitenoise"
+	"menusystem"	"1"
+}

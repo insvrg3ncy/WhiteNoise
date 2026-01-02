@@ -1,0 +1,1 @@
+wn.organism = wn.organism or {}
